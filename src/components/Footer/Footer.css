@@ -17,36 +17,7 @@
         }
     }
 }
-.con{
-    width:100%;
-        display:block;
-        background-color:transparent;
-        /* border:.0714rem solid var(--white-color); */
-        color:var(--white-color);
-        /* font-size:1.0714rem; */
-        font-weight: 400;
-        padding:.7143rem 1.4286rem;
-        /* border-radius: .5714rem;  */
-        min-height: 7.1429rem;
-     
-}
-.con1,.con2,.con3{
-    font-size:2rem;
-    line-height: 2.714rem;
-    color:var(white);
-    background:var(black);
-}
-.about_icon{
-    font-size: 2.2857rem;
-    width: 2.7143rem;
-    height: 2.7143rem;
-    /* margin:auto; */
-    line-height: 2.7143rem;
-    border-radius: 30%;
-    color:var(--primary-color);
-    background:var(--primary-bg);
-    text-align: center; 
-}
+
 
 /* Scroll Top */
 .scroll_top{
