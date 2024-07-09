@@ -33,7 +33,7 @@
             font-size: 2.5rem;
             line-height: 3.214rem;
             font-weight: 700;
-            color:var(--white-color);
+            color:var(--black-color);
             margin-bottom:0;
 
             @media (max-width:767px){
